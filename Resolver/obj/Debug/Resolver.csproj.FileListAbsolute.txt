@@ -1,0 +1,98 @@
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\Resolver\bin\Debug\Resolver.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\Resolver\bin\Debug\Resolver.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\Resolver\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\Resolver\bin\Debug\Microsoft.Practices.Unity.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\Resolver\bin\Debug\Unity.Mvc3.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\Resolver\bin\Debug\Microsoft.Practices.Unity.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\Resolver\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\Resolver\obj\Debug\Resolver.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\Resolver\obj\Debug\Resolver.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\Resolver\bin\Debug\Resolver.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\Resolver\bin\Debug\Resolver.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\Resolver\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\Resolver\bin\Debug\Microsoft.Practices.Unity.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\Resolver\bin\Debug\Unity.Mvc3.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\Resolver\bin\Debug\Microsoft.Practices.Unity.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\Resolver\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\Resolver\obj\Debug\Resolver.csprojResolveAssemblyReference.cache
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\Resolver\obj\Debug\Resolver.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\Resolver\obj\Debug\Resolver.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\Resolver\bin\Debug\Resolver.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\Resolver\bin\Debug\Resolver.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\Resolver\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\Resolver\bin\Debug\Microsoft.Practices.Unity.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\Resolver\bin\Debug\Unity.Mvc3.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\Resolver\bin\Debug\Microsoft.Practices.Unity.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\Resolver\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\Resolver\obj\Debug\Resolver.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\Resolver\obj\Debug\Resolver.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\Resolver\obj\Debug\Resolver.csprojResolveAssemblyReference.cache
+E:\Atricles\WebApi\Resolver\bin\Debug\Resolver.dll
+E:\Atricles\WebApi\Resolver\bin\Debug\Resolver.pdb
+E:\Atricles\WebApi\Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Atricles\WebApi\Resolver\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\Atricles\WebApi\Resolver\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Atricles\WebApi\Resolver\bin\Debug\Unity.Mvc3.dll
+E:\Atricles\WebApi\Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Atricles\WebApi\Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\Atricles\WebApi\Resolver\bin\Debug\Microsoft.Practices.Unity.xml
+E:\Atricles\WebApi\Resolver\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\Atricles\WebApi\Resolver\obj\Debug\Resolver.csprojResolveAssemblyReference.cache
+E:\Atricles\WebApi\Resolver\obj\Debug\Resolver.dll
+E:\Atricles\WebApi\Resolver\obj\Debug\Resolver.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\Resolver\bin\Debug\Resolver.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\Resolver\bin\Debug\Resolver.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\Resolver\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\Resolver\bin\Debug\Microsoft.Practices.Unity.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\Resolver\bin\Debug\Unity.Mvc3.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\Resolver\bin\Debug\Microsoft.Practices.Unity.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\Resolver\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\Resolver\obj\Debug\Resolver.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\Resolver\obj\Debug\Resolver.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\Resolver\bin\Debug\Resolver.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\Resolver\bin\Debug\Resolver.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\Resolver\obj\Debug\Resolver.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\Resolver\obj\Debug\Resolver.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\Resolver\bin\Debug\Resolver.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\Resolver\bin\Debug\Resolver.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\Resolver\obj\Debug\Resolver.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\9\sourcecode\WebApi\Resolver\obj\Debug\Resolver.pdb
+c:\2018\new folder\restful_oauth\Resolver\bin\Debug\Resolver.dll
+c:\2018\new folder\restful_oauth\Resolver\bin\Debug\Resolver.pdb
+c:\2018\new folder\restful_oauth\Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+c:\2018\new folder\restful_oauth\Resolver\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+c:\2018\new folder\restful_oauth\Resolver\bin\Debug\Microsoft.Practices.Unity.dll
+c:\2018\new folder\restful_oauth\Resolver\bin\Debug\Unity.Mvc3.dll
+c:\2018\new folder\restful_oauth\Resolver\bin\Debug\System.Web.Mvc.dll
+c:\2018\new folder\restful_oauth\Resolver\bin\Debug\Microsoft.Web.Infrastructure.dll
+c:\2018\new folder\restful_oauth\Resolver\bin\Debug\System.Web.Razor.dll
+c:\2018\new folder\restful_oauth\Resolver\bin\Debug\System.Web.WebPages.Razor.dll
+c:\2018\new folder\restful_oauth\Resolver\bin\Debug\System.Web.WebPages.dll
+c:\2018\new folder\restful_oauth\Resolver\bin\Debug\System.Web.WebPages.Deployment.dll
+c:\2018\new folder\restful_oauth\Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+c:\2018\new folder\restful_oauth\Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+c:\2018\new folder\restful_oauth\Resolver\bin\Debug\Microsoft.Practices.Unity.xml
+c:\2018\new folder\restful_oauth\Resolver\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+c:\2018\new folder\restful_oauth\Resolver\bin\Debug\System.Web.Mvc.xml
+c:\2018\new folder\restful_oauth\Resolver\bin\Debug\Microsoft.Web.Infrastructure.xml
+c:\2018\new folder\restful_oauth\Resolver\bin\Debug\System.Web.Razor.xml
+c:\2018\new folder\restful_oauth\Resolver\bin\Debug\System.Web.WebPages.Razor.xml
+c:\2018\new folder\restful_oauth\Resolver\bin\Debug\System.Web.WebPages.xml
+c:\2018\new folder\restful_oauth\Resolver\bin\Debug\System.Web.WebPages.Deployment.xml
+c:\2018\new folder\restful_oauth\Resolver\obj\Debug\Resolver.csprojAssemblyReference.cache
+c:\2018\new folder\restful_oauth\Resolver\obj\Debug\Resolver.csproj.CoreCompileInputs.cache
+c:\2018\new folder\restful_oauth\Resolver\obj\Debug\Resolver.csproj.CopyComplete
+c:\2018\new folder\restful_oauth\Resolver\obj\Debug\Resolver.dll
+c:\2018\new folder\restful_oauth\Resolver\obj\Debug\Resolver.pdb
